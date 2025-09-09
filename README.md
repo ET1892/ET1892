@@ -1,8 +1,10 @@
 # Ethan Toomey
 
 Hello, I’m Ethan!
-I'm a Computer Scientist, all of my projects are available here at https://github.com/ET1892
-You can visit my website at https://ethantoomey.com
+I'm a Computer Scientist
+<br>
+All of my projects are available here at https://github.com/ET1892
+You can also visit my website at https://ethantoomey.com
 
 ---
 ## 🛠 Skills & Tools
